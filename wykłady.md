@@ -1,5 +1,6 @@
 ---
 title: Notatki z kursu OSK
+lang: pl
 ---
 2026-02-16
 
@@ -20,7 +21,7 @@ title: Notatki z kursu OSK
 ## Egzamin z teorii 
 - Jest taki sam jak w WORD
 - 32 pytania: 20 przepisy + 12 wiedza specjalistyczna --- 25 min czasu
-(zaliczenie >=68/74 pkt)
+(zaliczenie $\ge \frac{68}{74}$ pkt)
 
 ## Egzamin praktyczny 
 - Trwa około 45 min
@@ -51,14 +52,14 @@ Dopuszczalna masa całkowita (masa własna + maksymalny ładunek)
 Rzeczywista masa całkowita (masa własna + rzeczywisty ładunek)
 :::
 
-Pojazd samochodowy o DMC do 3.5 t 
+Uprawnia do kierownie pojazdem samochodowym o DMC do 3.5 t 
 
 Opcjonalnie plus:
 
 - Przyczepa o DMC do 750 kg **lub** 
 - Przyczepa dowolna ale łączna DMC zespołu $\le 3.5$ t
 
-RMC przyczepy nie może być większa od RMC przyczepy
+RMC przyczepy nie może być większa od RMC pojazdu
 
 ## Rodzaje skrzyżowań
 
@@ -66,7 +67,15 @@ RMC przyczepy nie może być większa od RMC przyczepy
 - Z pierwszeństwem
 - O ruchu okrężnym (ronda)
 
-### Rownorzędne 
+::: {.definition title="Wymuszenie pierwszeństwa" ref=""}
+Zmuszenie innego uczęstnika ruchu do istotnej zmiany kierunku lub prędkości
+poruszania się
+:::
+
+### Równorzędne 
+
+![A-5: Skrzyżowanie równorzędne](/home/crok/sync/osk/assets/A-5.png){height=10%}
+
 
 Kolejność przejazdu:
 
@@ -108,10 +117,18 @@ Wyprzedzając pojazd jednośladowy lub kolumnę pieszych musimy zachować odstę
 
 Działamy zgodnie ze znakami D-1, A-7, B-20
 
-![Znak D-1: Droga z pierwszeństwem](/home/crok/sync/osk/assets/D-1.png){width=33%} \ ![Znak A-7: Ustąp pierwszeństwa](/home/crok/sync/osk/assets/A-7.png){width=33%} \ ![Znak B-20: Stop](/home/crok/sync/osk/assets/B-20.png){width=33%}
+![Znak D-1: Droga z pierwszeństwem](/home/crok/sync/osk/assets/D-1.png){height=10%}
+
+![Znak A-7: Ustąp pierwszeństwa](/home/crok/sync/osk/assets/A-7.png){height=10%}
+
+![Znak B-20: Stop](/home/crok/sync/osk/assets/B-20.png){height=10%}
 
 
 ### Z ruchem okrężnym
+
+![C-12: Ruch okrężny](/home/crok/sync/osk/assets/C-12.png){height=10%}
+
+
 Standardowo wjeżdżający ma pierwszeństwo, jednak wykle mamy znak A-7:
 wjeżdżający ustępuje pierwszeństwo
 
@@ -131,6 +148,12 @@ ruchu
 :::
 
 ## Obszar zabudowany
+
+![D-42: Obszar zabudowany](/home/crok/sync/osk/assets/D-42.png){height=10%}
+
+
+Podstawowe obowiązki w obszarze zabudowanym:
+
 - Prędkość do 50 km/h 
 - Zmieniamy światła drogowe na światła mijania
 - Przepuszczamy transport publiczny wyjeżdżający z przystanku
@@ -214,6 +237,9 @@ przez znaki drogowe
 :::
 ::: {.definition title="Strefa ruchu" ref=""}
 Droga wewnętrzna na której obowiązują przepisy jak na drogach publicznych
+
+![D-52: Strefa ruchu](/home/crok/sync/osk/assets/D-52.png){height=10%}
+
 :::
 
 ::: {.note title="Pobocze" ref=""}
@@ -222,6 +248,9 @@ jeśli nie, to nie
 :::
 
 ### Autostrada
+
+![D-9: Autostrada](/home/crok/sync/osk/assets/D-9.png){height=10%}
+
 Może wjechać tylko pojazd samochodowy (bez czterokołowca), który może rozwijać
 prędkość od 40 km/h
 
@@ -235,6 +264,9 @@ Nie wolno holować
 
 
 ### Droga ekspresowa
+
+![D-7: Droga ekspresowa](/home/crok/sync/osk/assets/D-7.png){height=10%}
+
 Może wjechać tylko pojazd samochodowy (bez czterokołowca)
 
 Mogą występować skrzyżowania i miejsca do zawrócenia
@@ -245,6 +277,10 @@ Prędkości maksymalne:
 - 2 jezdniowa --- 120 km/h
 
 ### Tunel
+
+![D-37: Tunel](/home/crok/sync/osk/assets/D-37.png){height=10%}
+
+
 Jeśli jest poza obszarem zabudowanym oraz długość tunelu jest przynajmniej 500m,
 to musimy zachować odległość 50m. Jeśli jest zatrzymanie (wypadek etc) ---
 minimum 5m
@@ -307,12 +343,22 @@ Nie można się zatrzymywać w obrębie:
 
 ## Przejazdy kolejowe
 
-Krzyż świętego Andrzeja --- 5-8 m od pierwszej szyny. Jak nie widzimy linii
-zatrzymania, zatrzymujemy się przed krzyżem
+Oznaczane są tak zwanymi Krzyżami świętego Andrzeja:
+
+![G-3: Jednotorowy przejazd kolejowy](/home/crok/sync/osk/assets/G-3.png){height=10%}
+
+![G-4: Wielotorowy przejazd kolejowy](/home/crok/sync/osk/assets/G-4.png){height=10%}
+
+
+
+Krzyż świętego Andrzeja instalowany jest w 5-8 metrach od pierwszej szyny. Jak
+nie widzimy linii zatrzymania, zatrzymujemy się przed krzyżem
 
 ::: {.note title="" ref=""}
-Wjeżdżamy na przejazd na małym biegu, nie zmieniamy na przejeździe
+Wjeżdżamy na przejazd na małym biegu, nie zmieniamy biegów na przejeździe
 :::
+
+## Zatrzymania i postoje
 
 ::: {.definition title="Zatrzymanie" ref=""}
 Unieruchomienie pojazdu do 1 min nie wynikające z warunków lub przepisów **lub**
