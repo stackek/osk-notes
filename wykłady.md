@@ -297,7 +297,13 @@ Znaki ostrzegawcze są instalowane na odległości od obiektu:
 - Prędkość maksymalna od 60 km/h: 150 -- 300m (A-7: do 50m)
 
 ::: {.caution title="Niebezpieczne zakręty" ref=""}
-Dwa niebezpieczne zakręty: **kierunku drugiego zakrętu nie określa** 
+Znaki Niebezpieczne zakręty **kierunku drugiego zakrętu nie określają**:
+
+![A-3: Niebezpieczne zakręty -- **pierwszy** w prawo](/home/crok/sync/osk/assets/A-3.png){height=10%}
+
+![A-4: Niebezpieczne zakręty -- **pierwszy** w lewo](/home/crok/sync/osk/assets/A-4.png){height=10%}
+
+
 :::
 
 ## Wyprzedzanie
