@@ -1,3 +1,4 @@
 pandoc/
 *.latex
 *.tex
+current.*

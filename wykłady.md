@@ -31,7 +31,7 @@ lang: pl
  
 ---
 
-# Wykład
+<!--# Wykład-->
 
 ::: {.definition title="Pojazd silnikowy" ref=""}
 Napędzany mechanicznie pojazd, który porusza się dzięki własnemu napędowi a nie
@@ -74,7 +74,7 @@ poruszania się
 
 ### Równorzędne 
 
-![A-5: Skrzyżowanie równorzędne](/home/crok/sync/osk/assets/A-5.png){height=10%}
+![A-5: Skrzyżowanie równorzędne](assets/A-5.png){height=15%}
 
 
 Kolejność przejazdu:
@@ -117,16 +117,16 @@ Wyprzedzając pojazd jednośladowy lub kolumnę pieszych musimy zachować odstę
 
 Działamy zgodnie ze znakami D-1, A-7, B-20
 
-![Znak D-1: Droga z pierwszeństwem](/home/crok/sync/osk/assets/D-1.png){height=10%}
+![Znak D-1: Droga z pierwszeństwem](assets/D-1.png){height=15%}
 
-![Znak A-7: Ustąp pierwszeństwa](/home/crok/sync/osk/assets/A-7.png){height=10%}
+![Znak A-7: Ustąp pierwszeństwa](assets/A-7.png){height=15%}
 
-![Znak B-20: Stop](/home/crok/sync/osk/assets/B-20.png){height=10%}
+![Znak B-20: Stop](assets/B-20.png){height=15%}
 
 
 ### Z ruchem okrężnym
 
-![C-12: Ruch okrężny](/home/crok/sync/osk/assets/C-12.png){height=10%}
+![C-12: Ruch okrężny](assets/C-12.png){height=15%}
 
 
 Standardowo wjeżdżający ma pierwszeństwo, jednak wykle mamy znak A-7:
@@ -140,8 +140,8 @@ przepisami ruchu drogowego
 :::
 
 ::: {.note title="" ref=""}
-Wyjeżdżając ze strefy zamieszkania lub z pasu ruchu dla pojazdów powolnych
-jesteśmy włączającym się do ruchu
+Wyjeżdżając ze strefy zamieszkania, strefy ruchu, drogi wewnętrznej lub z pasu ruchu dla pojazdów
+powolnych jesteśmy włączającym się do ruchu
 
 Pojazd szynowy wyjeżdżający z zajezdni lub z pętli też jest włączającym się do
 ruchu
@@ -149,7 +149,7 @@ ruchu
 
 ## Obszar zabudowany
 
-![D-42: Obszar zabudowany](/home/crok/sync/osk/assets/D-42.png){height=10%}
+![D-42: Obszar zabudowany](assets/D-42.png){height=15%}
 
 
 Podstawowe obowiązki w obszarze zabudowanym:
@@ -162,7 +162,7 @@ Podstawowe obowiązki w obszarze zabudowanym:
 
 2026-02-17
 
-# Wykład
+<!--# Wykład-->
 
 ## Światła 
 
@@ -184,12 +184,12 @@ Włączamy gdy widoczność $\le 50$m
 
 ::: {.definition title="Awaryjne i kierunkowskazy" ref=""}
 Częstotliwość mrugania $90$ cykli na minutę, $\pm 30$
-:::
 
 ::: {.note title="Pytanie testowe" ref=""}
 Przyczyna zwiększonej częstotliwości mrugania świateł awaryjnych
 
 Odpowiedź: przepalona żarówka
+:::
 :::
 
 ## Płyny
@@ -238,7 +238,7 @@ przez znaki drogowe
 ::: {.definition title="Strefa ruchu" ref=""}
 Droga wewnętrzna na której obowiązują przepisy jak na drogach publicznych
 
-![D-52: Strefa ruchu](/home/crok/sync/osk/assets/D-52.png){height=10%}
+![D-52: Strefa ruchu](assets/D-52.png){height=15%}
 
 :::
 
@@ -249,7 +249,7 @@ jeśli nie, to nie
 
 ### Autostrada
 
-![D-9: Autostrada](/home/crok/sync/osk/assets/D-9.png){height=10%}
+![D-9: Autostrada](assets/D-9.png){height=15%}
 
 Może wjechać tylko pojazd samochodowy (bez czterokołowca), który może rozwijać
 prędkość od 40 km/h
@@ -265,7 +265,7 @@ Nie wolno holować
 
 ### Droga ekspresowa
 
-![D-7: Droga ekspresowa](/home/crok/sync/osk/assets/D-7.png){height=10%}
+![D-7: Droga ekspresowa](assets/D-7.png){height=15%}
 
 Może wjechać tylko pojazd samochodowy (bez czterokołowca)
 
@@ -278,7 +278,7 @@ Prędkości maksymalne:
 
 ### Tunel
 
-![D-37: Tunel](/home/crok/sync/osk/assets/D-37.png){height=10%}
+![D-37: Tunel](assets/D-37.png){height=15%}
 
 
 Jeśli jest poza obszarem zabudowanym oraz długość tunelu jest przynajmniej 500m,
@@ -286,9 +286,10 @@ to musimy zachować odległość 50m. Jeśli jest zatrzymanie (wypadek etc) ---
 minimum 5m
 
 ---
+
 2026-02-18
 
-# Wykład
+<!--# Wykład-->
 
 ## Znaki ostrzegawcze
 Znaki ostrzegawcze są instalowane na odległości od obiektu:
@@ -297,11 +298,11 @@ Znaki ostrzegawcze są instalowane na odległości od obiektu:
 - Prędkość maksymalna od 60 km/h: 150 -- 300m (A-7: do 50m)
 
 ::: {.caution title="Niebezpieczne zakręty" ref=""}
-Znaki Niebezpieczne zakręty **kierunku drugiego zakrętu nie określają**:
+Znaki Dwa niebezpieczne zakręty **kierunku drugiego zakrętu nie określają**:
 
-![A-3: Niebezpieczne zakręty -- **pierwszy** w prawo](/home/crok/sync/osk/assets/A-3.png){height=10%}
+![A-3: Niebezpieczne zakręty -- **pierwszy** w prawo](assets/A-3.png){height=15%}
 
-![A-4: Niebezpieczne zakręty -- **pierwszy** w lewo](/home/crok/sync/osk/assets/A-4.png){height=10%}
+![A-4: Niebezpieczne zakręty -- **pierwszy** w lewo](assets/A-4.png){height=15%}
 
 
 :::
@@ -321,9 +322,10 @@ wjeżdżamy na przeciwny pas ruchu: po 2 pasy ruchu)
 
 Możemy wyprzedzić z prawej strony jeśli:
 
-- pojazd przed nami zjechał do pasa po lewej
-- w obszarze zabudowanym: mamy $\ge 2$ pasy
-- poza: mamy $\ge 3$ pasy (nie dotyczy jednokierunkowej, na niej od 2)
+- pojazd przed nami zjechał do pasa po lewej by skręcić w lewo
+- w obszarze zabudowanym: mamy $\ge 2$ **wyznaczone** pasy 
+- poza: mamy $\ge 3$ **wyznaczone** pasy (nie dotyczy jednokierunkowej, na niej
+od 2)
 
 ::: {.caution title="" ref=""}
 Na autostradach możemy wyprzedzić z prawej strony, bo jest to jezdnia
@@ -351,9 +353,9 @@ Nie można się zatrzymywać w obrębie:
 
 Oznaczane są tak zwanymi Krzyżami świętego Andrzeja:
 
-![G-3: Jednotorowy przejazd kolejowy](/home/crok/sync/osk/assets/G-3.png){height=10%}
+![G-3: Jednotorowy przejazd kolejowy](assets/G-3.png){height=15%}
 
-![G-4: Wielotorowy przejazd kolejowy](/home/crok/sync/osk/assets/G-4.png){height=10%}
+![G-4: Wielotorowy przejazd kolejowy](assets/G-4.png){height=15%}
 
 
 
@@ -364,15 +366,117 @@ nie widzimy linii zatrzymania, zatrzymujemy się przed krzyżem
 Wjeżdżamy na przejazd na małym biegu, nie zmieniamy biegów na przejeździe
 :::
 
+
+### Znaki poprzedzające
+
+![A-9: Przejazd kolejowy z zaporami](assets/A-9.png){height=15%}
+
+![A-10: Przejazd kolejowy bez zapór](assets/A-10.png){height=15%}
+
+Dodatkowo są umieszczane G-1* według następujących reguł:
+
+- Znak A-9 lub A-10 wraz ze znakiem z trzema paskami jest odległy tak samo jak
+inne znaki ostrzegawcze (patrz [Znaki Ostrzegawcze](#znaki-ostrzegawcze))
+- Z dwoma paskami jest odległy o $\frac{2}{3}$ odległości znaku z trzema paskami
+od przejazdu 
+- Z jednym paskiem --- $\frac{1}{3}$ odległości (bliżej niego nie )
+
+![G-1a: Słupek z trzema paskami](assets/G-1a.png){height=15%}
+
+
+::: {.caution title="Zatrzymanie obok przejazdu" ref=""}
+- Nie wolno się zatrzymać w odległości 10 m od przejazdu
+- Nie wolno postojować na odległości bliżej znaku z jednym paskiem
+:::
+
 ## Zatrzymania i postoje
 
 ::: {.definition title="Zatrzymanie" ref=""}
 Unieruchomienie pojazdu do 1 min nie wynikające z warunków lub przepisów **lub**
 o dowolnej długości wynikające z przepisów lub warunków
+
+::: {.caution title="" ref=""}
+Na mostach nie wolno się zatrzymać lub cofnąć
+:::
 :::
 ::: {.definition title="Postój" ref=""}
 Unieruchomienie pojazdu które nie jest zatrzymaniem
 :::
-::: {.caution title="" ref=""}
-Na mostach nie wolno się zatrzymać lub cofnąć
+
+
+---
+
+2026-02-20
+
+::: {.note title="Wzniesienie" ref=""}
+Zjeżdżamy ze stromego wzniesienia na tym samym biegu co na nie wjeżdżaliśmy
 :::
+
+## Holowanie
+
+- Po prawej stronie z tyłu pojazdu holowanego ma być umieszczony trójkąt
+ostrzegawczy
+- Prędkość:
+    * na obszarze zabudowanym --- 30 km/h
+    * poza --- 60 km/h
+- Długość linki: 4-6 m
+
+::: {.caution title="" ref=""}
+**Nie**  włączamy kierunkowskazu jeśli po zatrzymaniu kontynuujemy jazdę w
+tym samym kierunku
+:::
+
+::: {.caution title="Autobusy szkolne (gimbusy)" ref=""}
+Włączając się do ruchu mają pierwszeństwo w każdym
+przypadku.
+
+Jeśli dodatkowo z przodu i tyłu ma znak STOP, musimy zatrzymać się i czekać
+usunięcia znaku.
+:::
+
+::: {.note title="" ref=""}
+Jeśli na całej jezdni możliwy jest tylko jeden kierunek ruchu, możemy skręcać
+tam z dowolnego pasa
+:::
+
+
+::: {.note title="" ref=""}
+Na rondzie musimy włączyć kierunkowskaz na wysokości linii środkowej drogi
+poprzedzającej drogą na którą zjeżdżamy
+:::
+
+::: {.caution title="" ref=""}
+Tramwaj zjeżdżający z ronda **zawsze** ma pierwszeństwo
+:::
+
+## Zawracanie
+
+![S-3: Tylko **skręcić** w prawo](assets/S-3-lewo.png){height=15%}
+
+![S-3: Tylko **zawrócić** ](assets/S-3-zawracanie.png){height=15%}
+
+![S-3: **Skręcić** lub **zawrócić** ](assets/S-3-lewo-zawracanie.png){height=15%}
+
+![S-2: **Nie** możemy zawrócić](assets/S-2-lewo.png){height=15%}
+
+
+::: {.caution title="" ref=""}
+- Przed strzałką musimy się zatrzymać przed linią bezwarunkowego zatrzymania
+:::
+
+Nie możemy zawrócić przy znaku:
+
+- Zakaz skrętu w lewo **tylko na najbliższym skrzyżowaniu** 
+- Zakaz zawracania **na całym odcinku do skrzyżowania i na skrzyżowaniu** 
+- Nakaz jazdy w lewo
+
+## Koniec zakazu
+
+![B-42: Koniec zakazów](assets/B-42.png){height=15%}
+
+Znak "Koniec zakazu" odwołuje:
+
+- zawracanie 
+- wyprzedzanie (oba)
+- używania sygnału dźwiękowego
+- ograniczenie prędkości
