@@ -52,7 +52,7 @@ Dopuszczalna masa całkowita (masa własna + maksymalny ładunek)
 Rzeczywista masa całkowita (masa własna + rzeczywisty ładunek)
 :::
 
-Uprawnia do kierownie pojazdem samochodowym o DMC do 3.5 t 
+Uprawnia do kierowania pojazdem samochodowym o DMC do 3.5 t
 
 Opcjonalnie plus:
 
@@ -68,7 +68,7 @@ RMC przyczepy nie może być większa od RMC pojazdu
 - O ruchu okrężnym (ronda)
 
 ::: {.definition title="Wymuszenie pierwszeństwa" ref=""}
-Zmuszenie innego uczęstnika ruchu do istotnej zmiany kierunku lub prędkości
+Zmuszenie innego uczestnika ruchu do istotnej zmiany kierunku lub prędkości
 poruszania się
 :::
 
@@ -79,16 +79,16 @@ poruszania się
 
 Kolejność przejazdu:
 
-1. Pojazdy uprzewiliowane:
+1. Pojazdy uprzywilejowane:
 
-::: {.definition title="Pojazd uprzewiliowany" ref=""}
+::: {.definition title="Pojazd uprzywilejowany" ref=""}
 Mający **łącznie**:
 
 - Sygnał świetlny niebieski
 - Sygnał dźwiękowy
 - Światła mijania (krótkie) lub drogowe (długie)
 
-Zaliczamy również kolumnę (na początku i na końcu uprzewiliowane mające
+Zaliczamy również kolumnę (na początku i na końcu uprzywilejowane mające
 dodatkowo sygnał świetlny czerwony)
 :::
 
@@ -113,7 +113,7 @@ Wyprzedzając pojazd jednośladowy lub kolumnę pieszych musimy zachować odstę
 :::
 :::
 
-### Z drogą posiadającą pierwszeństwo przejadzu
+### Z drogą posiadającą pierwszeństwo przejazdu
 
 Działamy zgodnie ze znakami D-1, A-7, B-20
 
@@ -129,7 +129,7 @@ Działamy zgodnie ze znakami D-1, A-7, B-20
 ![C-12: Ruch okrężny](assets/C-12.png){height=15%}
 
 
-Standardowo wjeżdżający ma pierwszeństwo, jednak wykle mamy znak A-7:
+Standardowo wjeżdżający ma pierwszeństwo, jednak zwykle mamy znak A-7:
 wjeżdżający ustępuje pierwszeństwo
 
 ## Włączenie się do ruchu 
@@ -232,7 +232,7 @@ Zmieniamy biegi jeśli częstotliwość obrotów silnika jest około 2000 ob/min
 Część drogi przeznaczona do ruchu pojazdów
 :::
 ::: {.definition title="Pas ruchu" ref=""}
-Część jezdni przeznaczona do ruchu pojazdów wyznaczona **lub niewyzaczona**
+Część jezdni przeznaczona do ruchu pojazdów wyznaczona **lub niewyznaczona**
 przez znaki drogowe
 :::
 ::: {.definition title="Strefa ruchu" ref=""}
@@ -318,7 +318,7 @@ wjeżdżamy na przeciwny pas ruchu: po 2 pasy ruchu)
 - przy dojeżdżaniu do wierzchołka wzniesienia (takie same wyjątki jak powyżej)
 - na przejazdach kolejowych
 - na skrzyżowaniach (oprócz jeśli ruch jest kierowany lub jest o ruchu okrężnym)
-- jeśli najeżdżamy na linię ciągłą pojedyńczą lub podwójną
+- jeśli najeżdżamy na linię ciągłą pojedynczą lub podwójną
 
 Możemy wyprzedzić z prawej strony jeśli:
 
@@ -345,7 +345,7 @@ Ustawiamy na odległości od pojazdu:
 
 Nie można się zatrzymywać w obrębie:
 
-- znaku poziomego ("zygzagów")
+- znaku poziomego ("zygzaków")
 - zatoki
 - 15m od znaku jeśli nie ma linii i zatoki
 
@@ -414,7 +414,7 @@ Zjeżdżamy ze stromego wzniesienia na tym samym biegu co na nie wjeżdżaliśmy
 
 ## Holowanie
 
-- Po prawej stronie z tyłu pojazdu holowanego ma być umieszczony trójkąt
+- Po lewej stronie z tyłu pojazdu holowanego ma być umieszczony trójkąt
 ostrzegawczy
 - Prędkość:
     * na obszarze zabudowanym --- 30 km/h
@@ -451,17 +451,17 @@ Tramwaj zjeżdżający z ronda **zawsze** ma pierwszeństwo
 
 ## Zawracanie
 
-![S-3: Tylko **skręcić** w prawo](assets/S-3-lewo.png){height=15%}
+![S-3: Tylko **skręcić** w lewo](assets/S-3-lewo.png){height=15%}
 
 ![S-3: Tylko **zawrócić** ](assets/S-3-zawracanie.png){height=15%}
 
 ![S-3: **Skręcić** lub **zawrócić** ](assets/S-3-lewo-zawracanie.png){height=15%}
 
-![S-2: **Nie** możemy zawrócić](assets/S-2-lewo.png){height=15%}
+![S-2: **Możemy** zawrócić](assets/S-2-lewo.png){height=15%}
 
 
 ::: {.caution title="" ref=""}
-- Przed strzałką musimy się zatrzymać przed linią bezwarunkowego zatrzymania
+S-2: jeśli jest czerwony i świeci się strzałka musimy się zatrzymać przed linią bezwarunkowego zatrzymania
 :::
 
 Nie możemy zawrócić przy znaku:
@@ -470,13 +470,13 @@ Nie możemy zawrócić przy znaku:
 - Zakaz zawracania **na całym odcinku do skrzyżowania i na skrzyżowaniu** 
 - Nakaz jazdy w lewo
 
-## Koniec zakazu
+## Koniec zakazów
 
 ![B-42: Koniec zakazów](assets/B-42.png){height=15%}
 
-Znak "Koniec zakazu" odwołuje:
+Znak "Koniec zakazów" odwołuje znaki zakazu:
 
-- zawracanie 
-- wyprzedzanie (oba)
+- zawracania
+- wyprzedzania (oba)
 - używania sygnału dźwiękowego
 - ograniczenie prędkości
