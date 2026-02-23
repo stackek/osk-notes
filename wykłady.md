@@ -61,7 +61,9 @@ Opcjonalnie plus:
 
 RMC przyczepy nie może być większa od RMC pojazdu
 
-## Rodzaje skrzyżowań
+## Skrzyżowania
+
+Są 3 podstawowe typy skrzyżowań:
 
 - Równorzędne
 - Z pierwszeństwem
@@ -135,7 +137,7 @@ Działamy zgodnie ze znakami D-1, A-7, B-20
 ![B-20: Stop](assets/B-20.png){height=15%}
 
 
-### Z ruchem okrężnym
+### O ruchu okrężnym
 
 ![C-12: Ruch okrężny](assets/C-12.png){height=15%}
 
@@ -144,7 +146,8 @@ wjeżdżający ustępuje pierwszeństwo.
 
 
 ::: {.caution title="" ref=""}
-Tramwaj zjeżdżający z ronda **zawsze** ma pierwszeństwo
+Tramwaj zjeżdżający z ronda **zawsze** ma pierwszeństwo, a tramwaj wjeżdżający
+stosuje się do znaków jak inne pojazdy
 :::
 
 ::: {.note title="" ref=""}
@@ -152,6 +155,17 @@ Na rondzie musimy włączyć kierunkowskaz na wysokości osi środkowej drogi
 poprzedzającej drogę na którą zjeżdżamy
 :::
 
+Jeśli ruch jest **kierowany** i chcemy skręcić w lewo, musimy włączyć **lewy
+kierunkowskaz** przy dojeżdżaniu do skrzyżowania. Nie ma takiego obowiązku jeśli
+ruch nie jest kierowany.
+
+### Pojazdy szynowe
+
+Pojazdy szynowe:
+
+- muszą się stosować do znaków pierwszeństwa jeśli one są
+- jeśli jest sytuacja równorzędna, mają ma pierwszeństwo
+- jeśli dwa tramwaje są równorzędne, stosuje się regułę prawej ręki
 
 ## Włączenie się do ruchu
 
@@ -481,3 +495,90 @@ Znak "Koniec zakazów" odwołuje znaki zakazu:
 - wyprzedzania (oba)
 - używania sygnału dźwiękowego
 - ograniczenie prędkości
+
+---
+
+2026-02-23
+
+## Prędkości
+
+Prędkości poza obszarem zabudowanym:
+
+- Jednojezdniowa: 90 km/h
+- Dwujezdniowa: 100 km/h
+
+Z przyczepą:
+
+- Jednojezdniowa: 70 km/h 
+- Dwujezdniowa (w tym drogi szybkiego ruchu): 80 km/h
+
+## Znaki zakazu
+
+Jeśli mamy 100% pewność że wymienimy się, możemy nie stosować się do znaku B-31
+
+![B-31: Pierwszeństwo dla nadjeżdżających z przeciwka](assets/B-31.png){height=20%}
+
+Znak ograniczenie prędkości jest odwoływany przez najbliższe skrzyżowanie
+
+Zakaz postoju w dni parzyste/nieparzyste nie obowiązują w godzinach 21-24
+
+
+## Systemy wspomagania sterowania
+
+### ABS
+
+Pomaga w hamowaniu na śliskiej nawierzchni jako alternatywa hamowaniu
+przerywanemu
+
+### ESP
+
+Pomaga w sterowaniu i trzymaniu sprzężenia z drogą na zakrętach przyhamowując do
+odpowiedniej prędkości
+
+### ASR
+
+Pomaga ruszyć na śliskiej nawierzchni, na przykład jeśli niektóre koła są na
+suchej, a niektóre na śliskiej nawierzchni
+
+### Hill hold
+
+Pomaga ruszać na wzniesieniu. Działa przez 2 sekundy blokując koła po
+odpuszczeniu hamulca roboczego.
+
+## Wymijanie i wyprzedzanie
+
+### Wymijanie
+
+Zaleca się zmienić światła drogowe na mijania przy wymijaniu, by nie oślepić
+kierowcę jadącego z naprzeciwka.
+
+::: {.caution title="" ref=""}
+Zmiana światła kierowcy jadącego z naprzeciwka jest **nakazem** nam do zmiany
+swoich świateł (jest takim znakiem, że nasze światła są oślepiające)
+:::
+
+### Wyprzedzanie
+
+Musimy zmienić światła drogowe na mijania jak jesteśmy w 150 metrach (jak widzimy odblaski od jego świateł odblaskowych). Jak jesteśmy na tym samym poziomie, on musi zmienić, a my wracamy do drogowych.
+
+Pojazdy szynowe wyprzedzamy z prawej strony, chyba że:
+
+- położenie torowiska nie pozwala na to (na przykład jest z prawej strony
+jezdni)
+- jest do droga jednokierunkowa
+
+wtedy możemy wyprzedzić z lewej.
+
+Obowiązki gdy jesteśmy wyprzedzani:
+
+- nie zwiększać prędkości 
+- w razie potrzeby zbliżyć się do prawej krawędzi jezdni
+
+### Cofanie
+Nie wolno wykonywać cofania:
+
+- w tunelach
+- na mostach i wiaduktach
+- na drogach szybkiego ruchu
+- na zakrętach, wierzchołkach wzniesień
+- na drogach o dużym stężeniu ruchu
