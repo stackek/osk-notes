@@ -10,25 +10,25 @@ lang: pl
 - 17.02
 - 18.02
 - 20.02
-- 23.02 
+- 23.02
 - 24.02 --- lekarz
-- 25.02 
+- 25.02
 - 26.02
-- 27.02 
+- 27.02
 
 80% obecności na wykładach (7 spotkań)
 
-## Egzamin z teorii 
+## Egzamin z teorii
 - Jest taki sam jak w WORD
 - 32 pytania: 20 przepisy + 12 wiedza specjalistyczna --- 25 min czasu
 (zaliczenie $\ge \frac{68}{74}$ pkt)
 
-## Egzamin praktyczny 
+## Egzamin praktyczny
 - Trwa około 45 min
 - Musimy wiedzieć na czym polega
 - Maksymalnie 5 minut na obsługę (sprawdzenie) samochodu
 - Polecenia od egzaminatora będą zgodne z przepisami ruchu drogowego
- 
+
 ---
 
 <!--# Wykład-->
@@ -37,13 +37,13 @@ lang: pl
 Napędzany mechanicznie pojazd, który porusza się dzięki własnemu napędowi a nie
 jest motorowerem ani pojazdem szynowym
 :::
- 
+
 ::: {.definition title="Pojazd samochodowy" ref=""}
 Pojazd silnikowy, którego konstrukcja umożliwia jazdę z prędkością
 przekraczającą 25 km/h. Określenie to nie obejmuje ciągnika rolniczego
 :::
 
-## Kategoria B 
+## Kategoria B
 
 ::: {.definition title="DMC" ref=""}
 Dopuszczalna masa całkowita (masa własna + maksymalny ładunek)
@@ -56,7 +56,7 @@ Uprawnia do kierowania pojazdem samochodowym o DMC do 3.5 t
 
 Opcjonalnie plus:
 
-- Przyczepa o DMC do 750 kg **lub** 
+- Przyczepa o DMC do 750 kg **lub**
 - Przyczepa dowolna ale łączna DMC zespołu $\le 3.5$ t
 
 RMC przyczepy nie może być większa od RMC pojazdu
@@ -72,7 +72,18 @@ Zmuszenie innego uczestnika ruchu do istotnej zmiany kierunku lub prędkości
 poruszania się
 :::
 
-### Równorzędne 
+Jeśli znaki drogowe nie określają inaczej, możemy jechać:
+
+- Prosto --- z dowolnego pasa ruchu
+- W lewo --- tylko z lewego pasa ruchu
+- W prawo --- tylko z prawego pasa ruchu
+
+::: {.note title="" ref=""}
+Jeśli na całej jezdni możliwy jest tylko skręt w jednym kierunku na
+skrzyżowaniu, możemy skręcać tam z dowolnego pasa
+:::
+
+### Równorzędne
 
 ![A-5: Skrzyżowanie równorzędne](assets/A-5.png){height=15%}
 
@@ -117,44 +128,64 @@ Wyprzedzając pojazd jednośladowy lub kolumnę pieszych musimy zachować odstę
 
 Działamy zgodnie ze znakami D-1, A-7, B-20
 
-![Znak D-1: Droga z pierwszeństwem](assets/D-1.png){height=15%}
+![D-1: Droga z pierwszeństwem](assets/D-1.png){height=15%}
 
-![Znak A-7: Ustąp pierwszeństwa](assets/A-7.png){height=15%}
+![A-7: Ustąp pierwszeństwa](assets/A-7.png){height=15%}
 
-![Znak B-20: Stop](assets/B-20.png){height=15%}
+![B-20: Stop](assets/B-20.png){height=15%}
 
 
 ### Z ruchem okrężnym
 
 ![C-12: Ruch okrężny](assets/C-12.png){height=15%}
 
-
 Standardowo wjeżdżający ma pierwszeństwo, jednak zwykle mamy znak A-7:
-wjeżdżający ustępuje pierwszeństwo
+wjeżdżający ustępuje pierwszeństwo.
 
-## Włączenie się do ruchu 
+
+::: {.caution title="" ref=""}
+Tramwaj zjeżdżający z ronda **zawsze** ma pierwszeństwo
+:::
+
+::: {.note title="" ref=""}
+Na rondzie musimy włączyć kierunkowskaz na wysokości osi środkowej drogi
+poprzedzającej drogę na którą zjeżdżamy
+:::
+
+
+## Włączenie się do ruchu
 
 ::: {.definition title="Włączający się do ruchu" ref=""}
 Pojazd który rozpoczyna jazdę po zatrzymaniu które nie było spowodowane
 przepisami ruchu drogowego
 :::
 
-::: {.note title="" ref=""}
-Wyjeżdżając ze strefy zamieszkania, strefy ruchu, drogi wewnętrznej lub z pasu ruchu dla pojazdów
-powolnych jesteśmy włączającym się do ruchu
+Szczególne przypadki włączania się do ruchu:
 
-Pojazd szynowy wyjeżdżający z zajezdni lub z pętli też jest włączającym się do
+- Wyjeżdżając ze strefy zamieszkania, strefy ruchu, drogi wewnętrznej
+- Zjeżdżając z pasu ruchu dla pojazdów powolnych jesteśmy włączającym się do
 ruchu
+- Pojazd szynowy wyjeżdżający z zajezdni lub z pętli
+
+::: {.note title="" ref=""}
+**Nie** włączamy kierunkowskazu jeśli po zatrzymaniu kontynuujemy jazdę w
+tym samym kierunku
+:::
+
+::: {.caution title="Autobusy szkolne (gimbusy)" ref=""}
+Włączając się do ruchu mają pierwszeństwo **w każdym przypadku**.
+
+Jeśli dodatkowo z przodu i tyłu ma znak STOP, musimy **zatrzymać się i czekać
+usunięcia znaku** .
 :::
 
 ## Obszar zabudowany
 
 ![D-42: Obszar zabudowany](assets/D-42.png){height=15%}
 
-
 Podstawowe obowiązki w obszarze zabudowanym:
 
-- Prędkość do 50 km/h 
+- Prędkość do 50 km/h
 - Zmieniamy światła drogowe na światła mijania
 - Przepuszczamy transport publiczny wyjeżdżający z przystanku
 
@@ -164,7 +195,7 @@ Podstawowe obowiązki w obszarze zabudowanym:
 
 <!--# Wykład-->
 
-## Światła 
+## Światła
 
 ::: {.definition title="Pozycyjne" ref=""}
 Widoczne w nocy przy dobrej przejrzystości powietrza z 300m
@@ -213,7 +244,7 @@ na odwrót)
 ## Parkowanie
 Kryteria:
 
-- Równolegle do innych samochodów 
+- Równolegle do innych samochodów
 - Zajmuje jedno stanowisko
 - Można swobodnie otworzyć drwi i wyjść
 
@@ -239,7 +270,6 @@ przez znaki drogowe
 Droga wewnętrzna na której obowiązują przepisy jak na drogach publicznych
 
 ![D-52: Strefa ruchu](assets/D-52.png){height=15%}
-
 :::
 
 ::: {.note title="Pobocze" ref=""}
@@ -273,7 +303,7 @@ Mogą występować skrzyżowania i miejsca do zawrócenia
 
 Prędkości maksymalne:
 
-- 1 jezdniowa --- 100 km/h 
+- 1 jezdniowa --- 100 km/h
 - 2 jezdniowa --- 120 km/h
 
 ### Tunel
@@ -304,7 +334,6 @@ Znaki Dwa niebezpieczne zakręty **kierunku drugiego zakrętu nie określają**:
 
 ![A-4: Niebezpieczne zakręty -- **pierwszy** w lewo](assets/A-4.png){height=15%}
 
-
 :::
 
 ## Wyprzedzanie
@@ -323,7 +352,7 @@ wjeżdżamy na przeciwny pas ruchu: po 2 pasy ruchu)
 Możemy wyprzedzić z prawej strony jeśli:
 
 - pojazd przed nami zjechał do pasa po lewej by skręcić w lewo
-- w obszarze zabudowanym: mamy $\ge 2$ **wyznaczone** pasy 
+- w obszarze zabudowanym: mamy $\ge 2$ **wyznaczone** pasy
 - poza: mamy $\ge 3$ **wyznaczone** pasy (nie dotyczy jednokierunkowej, na niej
 od 2)
 
@@ -378,7 +407,7 @@ Dodatkowo są umieszczane G-1* według następujących reguł:
 - Znak A-9 lub A-10 wraz ze znakiem z trzema paskami jest odległy tak samo jak
 inne znaki ostrzegawcze (patrz [Znaki Ostrzegawcze](#znaki-ostrzegawcze))
 - Z dwoma paskami jest odległy o $\frac{2}{3}$ odległości znaku z trzema paskami
-od przejazdu 
+od przejazdu
 - Z jednym paskiem --- $\frac{1}{3}$ odległości (bliżej niego nie )
 
 ![G-1a: Słupek z trzema paskami](assets/G-1a.png){height=15%}
@@ -386,7 +415,7 @@ od przejazdu
 
 ::: {.caution title="Zatrzymanie obok przejazdu" ref=""}
 - Nie wolno się zatrzymać w odległości 10 m od przejazdu
-- Nie wolno postojować na odległości bliżej znaku z jednym paskiem
+- Nie wolno postać na odległości bliżej znaku z jednym paskiem
 :::
 
 ## Zatrzymania i postoje
@@ -421,34 +450,6 @@ ostrzegawczy
     * poza --- 60 km/h
 - Długość linki: 4-6 m
 
-::: {.caution title="" ref=""}
-**Nie**  włączamy kierunkowskazu jeśli po zatrzymaniu kontynuujemy jazdę w
-tym samym kierunku
-:::
-
-::: {.caution title="Autobusy szkolne (gimbusy)" ref=""}
-Włączając się do ruchu mają pierwszeństwo w każdym
-przypadku.
-
-Jeśli dodatkowo z przodu i tyłu ma znak STOP, musimy zatrzymać się i czekać
-usunięcia znaku.
-:::
-
-::: {.note title="" ref=""}
-Jeśli na całej jezdni możliwy jest tylko jeden kierunek ruchu, możemy skręcać
-tam z dowolnego pasa
-:::
-
-
-::: {.note title="" ref=""}
-Na rondzie musimy włączyć kierunkowskaz na wysokości linii środkowej drogi
-poprzedzającej drogą na którą zjeżdżamy
-:::
-
-::: {.caution title="" ref=""}
-Tramwaj zjeżdżający z ronda **zawsze** ma pierwszeństwo
-:::
-
 ## Zawracanie
 
 ![S-3: Tylko **skręcić** w lewo](assets/S-3-lewo.png){height=15%}
@@ -466,8 +467,8 @@ S-2: jeśli jest czerwony i świeci się strzałka musimy się zatrzymać przed 
 
 Nie możemy zawrócić przy znaku:
 
-- Zakaz skrętu w lewo **tylko na najbliższym skrzyżowaniu** 
-- Zakaz zawracania **na całym odcinku do skrzyżowania i na skrzyżowaniu** 
+- Zakaz skrętu w lewo **tylko na najbliższym skrzyżowaniu**
+- Zakaz zawracania **na całym odcinku do skrzyżowania i na skrzyżowaniu**
 - Nakaz jazdy w lewo
 
 ## Koniec zakazów
