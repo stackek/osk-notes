@@ -31,7 +31,8 @@ lang: pl
 
 ---
 
-<!--# Wykład-->
+
+# Wstęp
 
 ::: {.definition title="Pojazd silnikowy" ref=""}
 Napędzany mechanicznie pojazd, który porusza się dzięki własnemu napędowi a nie
@@ -60,6 +61,8 @@ Opcjonalnie plus:
 - Przyczepa dowolna ale łączna DMC zespołu $\le 3.5$ t
 
 RMC przyczepy nie może być większa od RMC pojazdu
+
+# Podstawowe zasady
 
 ## Skrzyżowania
 
@@ -207,7 +210,7 @@ Podstawowe obowiązki w obszarze zabudowanym:
 
 2026-02-17
 
-<!--# Wykład-->
+# Obsługa samochodu
 
 ## Światła
 
@@ -254,6 +257,8 @@ Wskazać min i max, stwierdzić że jest między min a max
 Widzieć w dolnym kącie klamkę tylnych drzwi (w lewym lustrze w prawym kącie i
 na odwrót)
 :::
+
+# Część główna
 
 ## Parkowanie
 Kryteria:
@@ -582,3 +587,97 @@ Nie wolno wykonywać cofania:
 - na drogach szybkiego ruchu
 - na zakrętach, wierzchołkach wzniesień
 - na drogach o dużym stężeniu ruchu
+
+---
+
+2026-02-24
+
+# Medycyna
+
+## Reanimacja
+
+Mamy obowiązek udzielić pomocy, chyba że nam coś zagraża.
+
+Kolejność działań:
+
+1. Ocena sytuacji
+2. Liczba poszkodowanych (brać pod uwagę, że np motocykle mogą mieć pasażerów
+   lub ktoś nie zapiął pasa i wyleciał z auta)
+3. Stan poszkodowań ofiar (rozpoczynamy pomoc od najbardziej poszkodowanej)
+4. Dzwonimy 112
+5. Sprawdzić czy osoba jest przytomna:
+    a. kontakt słowny (zadać pytania)
+    b. kontakt fizyczny (**tylko** potrząsanie za ramię, **nie** bijemy po pysku)
+6. Sprawdzanie parametrów życiowych:
+    a. oddech --- pochylenie nad nosem: klatka piersiowa (jeśli nie widzimy,
+        zdejmujemy odzież i kładziemy rękę) + słyszymy oddech + odczuwamy oddychane
+        powietrze (10-12 sekund, 2-3 cykle oddechowe)
+    b. tętno --- z boku szyi lub uda (nie jest obowiązkowe, bo wynik może być
+obciążony i wystarczy warunku braku oddechu)
+7. Układamy na płaskiej twardej powierzchni w bezpiecznym miejscu. **Nie**  kładziemy
+   nic pod głowę, nawet odchylamy ją trochę do tyłu i otwieramy usta na 2 cm
+8. Sprawdzamy czy nie ma przeszkód w drogach oddechowych, jak są -- wyjmujemy
+9. Powtarzamy:
+    a. 30 uciśnięć nadgarstkiem (nie dłonią) z wyprostowanym łokciem na 4-5 cm
+       100-110 razy/min wisząc prostopadle
+    b. 2 oddechy zaciskając nos obserwując klatkę piersiową. Jeśli nie wiemy jak
+       robić lub podejrzewamy o choroby zakaźne, nie robimy
+10. Robimy aż:
+    a. pacjent przywróci do życia
+    b. nie mamy już sił
+    c. przybędzie karetka
+
+::: {.note title="" ref=""}
+Nie wolno nam samodzielnie zakończyć reanimacji bez spełnienia chociażby jednego
+warunku powyżej, a tym bardziej stwierdzić śmierci rannego
+:::
+
+11. Przewracamy na bok i zabezpieczamy ciepło
+
+::: {.note title="Test" ref=""}
+Mózg umiera bez tlenu po 4.5 min
+:::
+
+## Reanimacja dziecka
+
+1. Kładziemy na ręku głową w dół i bijemy
+2. Reanimację małym dzieciom robimy dwoma palcami, większym --- jednym nadgarstkiem
+
+## Złamanie
+
+1. Unieruchomić dwa sąsiednie stawy
+2. **Nie** nastawiamy kości z powrotem
+
+## Kręgosłup
+
+By sprawdzić czy jest uszkodzony:
+
+- Poprosić o poruszanie kończynami
+- Szczypnąć w kończynę i zapytać **czy** czuje i czy czuje **tak samo** na obu kończynach
+
+Jeśli nie ma potrzeby, nie wyciągamy z auta, jednak jeśli potrzebuje reanimacji
+lub zagraża mu coś, wyciągamy.
+
+Przy wyciąganiu stabilizujemy głowę, np można poprosić kogoś o przytrzymanie
+
+## Apteczka
+
+Zalecany skład apteczki:
+
+- rękawiczki lateksowe kilka par
+- maseczka do sztucznego oddychania
+- gaziki
+- bandage elastyczne
+- siatka opatrunkowa Codofix
+- trójkąt
+- plastry
+- folia egzotermiczna
+- nożyczki
+
+Ekstra:
+
+- kamizelka odblaskowa
+- latarka
+- młotek do wybijania szyb
+- przecinać do pasów bezpieczeństwa
+- miś
