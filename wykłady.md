@@ -88,6 +88,25 @@ Jeśli na całej jezdni możliwy jest tylko skręt w jednym kierunku na
 skrzyżowaniu, możemy skręcać tam z dowolnego pasa
 :::
 
+::: {.note title="Pieszy na skrzyżowaniu" ref=""}
+Skręcając na drogę poprzeczną na skrzyżowaniu pieszy ma pierwszeństwo. Jeśli
+przejeżdżamy na wprost na skrzyżowaniu --- my mamy pierwszeństwo przed pieszym
+:::
+
+::: {.caution title="Pierwszeństwo tramwaju" ref=""}
+Jeśli jest sygnalizacja lub znaki pierwszeństwa --- traktujemy pojazd szynowy
+jako zwykły samochód. 
+
+Jeśli nie ma i jest sytuacja równorzędna samochód--tramway: tramwaj ma
+pierwszeństwo.
+:::
+
+::: {.caution title="" ref=""}
+Na skrzyżowaniu o ruchu okrężnym **z ruchem kierowanym** przy zjeżdżaniu **nie**
+włączamy prawego kierunkowskazu. Jednak przy wjeździe i chęci skręcenia w lewo
+**musimy** włączyć lewy
+:::
+
 ### Równorzędne
 
 ![A-5: Skrzyżowanie równorzędne](assets/A-5.png){height=15%}
@@ -117,7 +136,6 @@ metrów)
 
 Umożliwiając mu ruch, zjeżdżamy do krawędzi **pasa** ruchu
 
-Pojazdy przewożące ładunki niebezpieczne są oznaczone pomarańczowym prostokątem
 
 
 2. Pojazd szynowy (tramwaj)
@@ -144,18 +162,18 @@ Działamy zgodnie ze znakami D-1, A-7, B-20
 ![B-20: Stop](assets/B-20.png){height=15%}
 
 
+
+::: {.note title="Sygnalizacja wielofazowa" ref=""}
+Skręcając w lewo jeśli mamy na wysepce lub za wysepką sygnalizator, musimy się
+dostosować do jego wskazania
+:::
+
 ### O ruchu okrężnym
 
 ![C-12: Ruch okrężny](assets/C-12.png){height=15%}
 
 Standardowo wjeżdżający ma pierwszeństwo, jednak zwykle mamy znak A-7:
 wjeżdżający ustępuje pierwszeństwo.
-
-
-::: {.caution title="" ref=""}
-Tramwaj zjeżdżający z ronda **zawsze** ma pierwszeństwo, a tramwaj wjeżdżający
-stosuje się do znaków jak inne pojazdy
-:::
 
 ::: {.note title="" ref=""}
 Na rondzie musimy włączyć kierunkowskaz na wysokości osi środkowej drogi
@@ -224,6 +242,12 @@ Widoczne w nocy przy dobrej przejrzystości powietrza z 300m
 
 ::: {.definition title="Mijania" ref=""}
 Oświetlają drogę na min 40m i są asymetryczne
+
+::: {.note title="" ref=""}
+Jeśli postój trwa więcej niż 1 min i jest spowodowany przepisami ruchu drogowego
+--- można wyłączyć światła zewnętrzne, a jeśli jest ciemno --- zostawić tylko
+pozycyjne
+:::
 :::
 
 ::: {.definition title="Drogowe" ref=""}
@@ -232,6 +256,11 @@ Oświetlają drogę na min 100m
 
 ::: {.definition title="Przeciwmgłowe tylne" ref=""}
 Włączamy gdy widoczność $\le 50$m
+
+::: {.note title="" ref=""}
+Na drodze krętej można używać światła przeciwmgłowe od zmierzchu do świtu
+również przy normalnej przejrzystości powietrza
+:::
 :::
 
 ::: {.definition title="Awaryjne i kierunkowskazy" ref=""}
@@ -243,6 +272,13 @@ Przyczyna zwiększonej częstotliwości mrugania świateł awaryjnych
 Odpowiedź: przepalona żarówka
 :::
 :::
+
+::: {.definition title="Oświetlające tylną tablicę rejestracyjną" ref=""}
+Oświetlona tablica rejestracyjna ma być widoczna z odległości 20 m
+:::
+
+
+
 
 ## Płyny
 ### Olej
@@ -334,7 +370,6 @@ Prędkości maksymalne:
 ![D-37: Tunel](assets/D-37.png){height=15%}
 
 
-<!--TODO: anki change-->
 Jeśli jest poza obszarem zabudowanym oraz długość tunelu jest przynajmniej 500m,
 to musimy zachować odległość 50m. Jeśli jest zatrzymanie (wypadek etc),
 **niezależnie** od długości i położenia --- minimum 5m
@@ -474,7 +509,18 @@ jeśli** jest 1 pas ruchu w każdym kierunku
 - na wyjazdach
 - przed zaparkowanymi pojazdami
 - na jezdni poza obszarem zabudowanym
-- na chodniku: dla pojazdów $\ge 2.5$t
+- na chodniku (wyjątki poniżej)
+
+### Postój na chodniku
+
+Jeśli nie ma zakazu, możemy urządzać postój na chodniku jeśli spełnione są
+**jednocześnie** warunki:
+
+- DMC samochodu nie przekracza 2.5 t
+- parkujemy równolegle do krawężnika i blisko do niego lub jeśli chodnik jest
+szeroki --- prostopadle tyłem do drogi
+- zostawimy 1.5 m przejścia
+- nie utrudnia to ruchu pieszym
 
 ---
 
@@ -484,14 +530,6 @@ jeśli** jest 1 pas ruchu w każdym kierunku
 Zjeżdżamy ze stromego wzniesienia na tym samym biegu co na nie wjeżdżaliśmy
 :::
 
-## Holowanie
-
-- Po lewej stronie z tyłu pojazdu holowanego ma być umieszczony trójkąt
-ostrzegawczy
-- Prędkość:
-    * na obszarze zabudowanym --- 30 km/h
-    * poza --- 60 km/h
-- Długość linki: 4-6 m
 
 ## Zawracanie
 
@@ -551,6 +589,30 @@ Znak ograniczenie prędkości jest odwoływany przez najbliższe skrzyżowanie
 
 Zakaz postoju w dni parzyste/nieparzyste nie obowiązują w godzinach 21-24
 
+### Zakazy wjazdu
+
+#### Ciężarówek
+
+![B-5: Zakaz wjazdu samochodów ciężarowych](assets/B-5.png){height=20%}
+
+
+Zakaz wjazdu samochodów ciężarowych zabrania wjazdu:
+
+- pojazd wolnobieżny (taki, którego cechy konstrukcyjne ograniczają prędkość do
+25 km/h --- przeciwieństwo samochodowego)
+- wszelkie ciągniki
+- specjalnych których masa jest więcej niż 3.5 t
+
+#### Ciągników
+
+![B-6: Zakaz wjazdu ciągników rolniczych i pojazdów wolnobieżnych](assets/B-6.png){height=20%}
+
+Zakaz wjazdu ciągników rolniczych też zabrania wjazdu pojazdów wolnobieżnych
+
+#### Przyczepy
+![B-7: Zakaz wjazdu pojazdów silnikowych z przyczepą](assets/B-7.png){height=20%}
+
+B-7 nie dotyczy jednoosiowej przyczepy i naczepy
 
 ## Systemy wspomagania sterowania
 
@@ -723,22 +785,10 @@ Oznakujemy czerwoną chorągiewką jeśli wystaje o więcej niż 0.5 m. Możemy
 zamiast tego zawiesić bryłę pomalowana białymi i czerwonymi pasami o łącznej
 powierzchni $\ge 1000 \text{ cm}^2$  
 
-<!-- TODO: merge with previous section -->
-## Skrzyżowania
+::: {.note title="Ładunki niebezpieczne" ref=""}
+Pojazdy przewożące ładunki niebezpieczne są oznaczone pomarańczowym prostokątem
+:::
 
-Skręcając na drogę poprzeczną na skrzyżowaniu pieszy ma pierwszeństwo. Jeśli
-przejeżdżamy na wprost na skrzyżowaniu --- my mamy pierwszeństwo przed pieszym
-
-Sygnalizacja wielofazowa: skręcając w lewo jeśli mamy na wysepce lub za wysepką
-sygnalizator, musimy się dostosować do jego wskazania.
-
-Jeśli jest sygnalizacja --- traktujemy pojazd szynowy jak zwykły samochód. 
-
-Jeśli nie ma i jest sytuacja równorzędna --- tramwaj ma pierwszeństwo.
-
-Na skrzyżowaniu o ruchu okrężnym przy skręcaniu w lewo **nie** włączamy przy
-zjeżdżaniu włączyć prawego kierunkowskazu. Jednak przy wjeździe i chęci
-skręcenia w lewo **musimy** włączyć lewy
 
 ## Droga zatrzymania
 
@@ -751,4 +801,32 @@ hamulec do momentu jak zacznie działać)
 - Droga hamowania (nie jest więc ona tym samym co droga zatrzymania)
 :::
 
+---
+2026-02-26
 
+## Holowanie
+
+- Po lewej stronie z tyłu pojazdu holowanego ma być umieszczony trójkąt
+ostrzegawczy
+- Prędkość:
+    * na obszarze zabudowanym --- 30 km/h
+    * poza --- 60 km/h
+
+Musi mieć sprawne przynajmniej układów hamulcowych na połączeniu:
+
+- giętkim --- co najmniej 2
+- sztywnym --- co najmniej 1
+
+::: {.note title="Układy hamulcowe" ref=""}
+W każdym samochodzie są 3 układy hamulcowe:
+
+- ręczny (tylko koła jednej osi, zwykle tylnej):
+    * awaryjny (skuteczność jest uzależniona od wysokości dźwigni)
+    * postojowy (zwykle używamy)
+- zasadniczy (roboczy, działa na wszystkie osie)
+:::
+
+Odległość między pojazdami na holu:
+
+- na holu sztywnym: nie więcej niż 3 m
+- giętkim: 4-6 m
