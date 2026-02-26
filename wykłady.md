@@ -115,6 +115,10 @@ metrów)
 - Kolumny nie możemy wyprzedzić, zachowujemy 100m dystansu
 :::
 
+Umożliwiając mu ruch, zjeżdżamy do krawędzi **pasa** ruchu
+
+Pojazdy przewożące ładunki niebezpieczne są oznaczone pomarańczowym prostokątem
+
 
 2. Pojazd szynowy (tramwaj)
 3. Pojazd z prawej strony
@@ -330,9 +334,10 @@ Prędkości maksymalne:
 ![D-37: Tunel](assets/D-37.png){height=15%}
 
 
+<!--TODO: anki change-->
 Jeśli jest poza obszarem zabudowanym oraz długość tunelu jest przynajmniej 500m,
-to musimy zachować odległość 50m. Jeśli jest zatrzymanie (wypadek etc) ---
-minimum 5m
+to musimy zachować odległość 50m. Jeśli jest zatrzymanie (wypadek etc),
+**niezależnie** od długości i położenia --- minimum 5m
 
 ---
 
@@ -386,7 +391,7 @@ Ustawiamy na odległości od pojazdu:
 
 - Na obszarze zabudowanym --- tuż za pojazdem lub na pojeździe na wysokości do
 1 metra
-- Poza obszarem zabudowanym --- 30 metrów
+- Poza obszarem zabudowanym --- 30-50 metrów
 - Na drodze szybkiego ruchu --- 100 metrów
 
 ## Przystanki
@@ -413,6 +418,12 @@ nie widzimy linii zatrzymania, zatrzymujemy się przed krzyżem
 ::: {.note title="" ref=""}
 Wjeżdżamy na przejazd na małym biegu, nie zmieniamy biegów na przejeździe
 :::
+
+Jeśli jest znak rogatka uszkodzona, nie możemy wjechać aż osoba kierująca ruchem
+nie zezwoli na to
+
+Jeśli pojazd stanie na przejeździe --- usuń jego z torów, jeśli to niemożliwe --
+poinformuj kierującego pociągu
 
 
 ### Znaki poprzedzające
@@ -451,6 +462,19 @@ Na mostach nie wolno się zatrzymać lub cofnąć
 Unieruchomienie pojazdu które nie jest zatrzymaniem
 :::
 
+Nie wolno **zatrzymać**  pojazd:
+
+- tak, by zmusić innych w celu omijania na przekraczanie linii ciągłej
+- w odległości bliżej niż 10 m **przed**  przejściem lub przejazdu oraz **za,
+jeśli** jest 1 pas ruchu w każdym kierunku
+- w odległości bliżej 10 m od znaku **jeśli** pojazd by zasłonił ten znak
+
+**Postój** jest zabroniony:
+
+- na wyjazdach
+- przed zaparkowanymi pojazdami
+- na jezdni poza obszarem zabudowanym
+- na chodniku: dla pojazdów $\ge 2.5$t
 
 ---
 
@@ -679,5 +703,52 @@ Ekstra:
 - kamizelka odblaskowa
 - latarka
 - młotek do wybijania szyb
-- przecinać do pasów bezpieczeństwa
+- przecinacz do pasów bezpieczeństwa
 - miś
+
+---
+
+2026-02-25
+
+# Ciąg dalszy
+
+## Przewóz ładunków
+
+Ładunek nie może wystawać za granice pojazdu nie więcej niż na:
+
+- z przodu --- 1.5 m
+- z tyłu --- 2 m
+
+Oznakujemy czerwoną chorągiewką jeśli wystaje o więcej niż 0.5 m. Możemy
+zamiast tego zawiesić bryłę pomalowana białymi i czerwonymi pasami o łącznej
+powierzchni $\ge 1000 \text{ cm}^2$  
+
+<!-- TODO: merge with previous section -->
+## Skrzyżowania
+
+Skręcając na drogę poprzeczną na skrzyżowaniu pieszy ma pierwszeństwo. Jeśli
+przejeżdżamy na wprost na skrzyżowaniu --- my mamy pierwszeństwo przed pieszym
+
+Sygnalizacja wielofazowa: skręcając w lewo jeśli mamy na wysepce lub za wysepką
+sygnalizator, musimy się dostosować do jego wskazania.
+
+Jeśli jest sygnalizacja --- traktujemy pojazd szynowy jak zwykły samochód. 
+
+Jeśli nie ma i jest sytuacja równorzędna --- tramwaj ma pierwszeństwo.
+
+Na skrzyżowaniu o ruchu okrężnym przy skręcaniu w lewo **nie** włączamy przy
+zjeżdżaniu włączyć prawego kierunkowskazu. Jednak przy wjeździe i chęci
+skręcenia w lewo **musimy** włączyć lewy
+
+## Droga zatrzymania
+
+::: {.definition title="Droga zatrzymania" ref=""}
+Droga zatrzymania składa się z:
+
+- Czas reakcji psychicznej kierującego: około 0.5 sec
+- Droga przebyta podczas opóźnienia działania hamulca (od momentu naciśnięcia na
+hamulec do momentu jak zacznie działać)
+- Droga hamowania (nie jest więc ona tym samym co droga zatrzymania)
+:::
+
+
