@@ -1,7 +1,23 @@
 ---
 title: Notatki z kursu OSK
 lang: pl
+toc: true
+toc-own-page: true
+titlepage: true
+titlepage-logo: "assets/nauka-jazdy.png"
+titlepage-color: "D39845"
 ---
+
+# Abstract
+
+Są to notatki z zajęć prowadzonych w OSK w dniach podanych poniżej. Nie
+zawierają one jednak w całości treści przedstawionych na wykładach, notowane
+było bowiem co autor uznał za potrzebne (to, czego nie wiedział). Notatki mogą
+również zawierać błędy, literówki, niedokładności. Mieści się w nich oprócz
+suchej teorii, praktyczne wskazówki i rady.
+
+---
+
 2026-02-16
 
 8 spotkań 17:30 - 19:45 + 1 z lekarzem
@@ -17,6 +33,8 @@ lang: pl
 - 27.02
 
 80% obecności na wykładach (7 spotkań)
+
+Wykładowca: Zbyszek
 
 ## Egzamin z teorii
 - Jest taki sam jak w WORD
@@ -802,6 +820,7 @@ hamulec do momentu jak zacznie działać)
 :::
 
 ---
+
 2026-02-26
 
 ## Holowanie
@@ -830,3 +849,22 @@ Odległość między pojazdami na holu:
 
 - na holu sztywnym: nie więcej niż 3 m
 - giętkim: 4-6 m
+
+---
+
+2026-02-27
+
+## Przeglądy techniczne
+
+Przeglądy techniczne są ważne:
+
+- 3 lata po zakupie nowego 
+- 2 lata po pierwszym przeglądzie 
+- 1 rok po każdym kolejnym przeglądzie
+
+1.6 mm --- najmniejsza dopuszczalna grubość bieżnika w najcieńszym miejscu
+
+::: {.note title="" ref=""}
+Na łuku przy jeździe tyłem trzymamy się prawej strony na constance odległości od
+krawędzi. Prawie nie patrzymy w lewe lusterko
+:::
